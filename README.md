@@ -7,4 +7,6 @@ The exercise include 3 parts of files:
 - `Percentage_Sales_H&W.sql`
 - `Power_Users.sql`
 - `Leading_brand_in_Dips&Salsa.sql`
+- `Interesting_Findings.sql`
+
 3. Communicate with stakeholders: `Email_for_stakeholders.docx`
